@@ -13,7 +13,6 @@ library(ggplot2)
 library(DT)
 library(viridisLite)
 library(utils)
-library(tidyr)
 library(future)
 library(furrr)
 
